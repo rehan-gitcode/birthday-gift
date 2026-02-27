@@ -13,5 +13,5 @@ export default function GlobalMusic() {
     document.addEventListener("click", startMusic);
   }, []);
 
-  return <audio ref={audioRef} src="/images/birthdaymusic.mp3" loop />;
+  return <audio ref={audioRef} src="/images/malang.mpeg" loop />;
 }

@@ -38,7 +38,7 @@ export default function HomePage() {
       </div>
 
       {/* Watermark */}
-      <motion.div
+      {/* <motion.div
         initial={{ x: 100, opacity: 0 }}
         animate={{ x: 0, opacity: 1 }}
         transition={{
@@ -46,8 +46,8 @@ export default function HomePage() {
           delay: 1,
         }}
         className="fixed bottom-4 right-4 text-sm text-white/40 pointer-events-none z-50 font-light">
-        @jnb_R
-      </motion.div>
+        
+      </motion.div> */}
     </main>
   )
 }

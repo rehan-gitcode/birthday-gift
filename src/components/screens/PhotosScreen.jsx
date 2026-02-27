@@ -13,15 +13,16 @@ export default function PhotosScreen({ onNext }) {
   const swiperRef = useRef(null)
 
   const photos = [
-    // "/images/aysha1.jpeg",
-    //  "/images/aysha2.jpeg",
-    //   "/images/aysha3.jpeg",
-    //    "/images/aysha4.jpeg",
-    //     "/images/aysha5.jpeg",
-    "/images/1.jpeg",
-    "/images/2.jpeg",
-    "/images/3.jpeg",
-    "/images/4.jpeg",
+    "/images/aysha5.jpeg",
+    "/images/aysha9.jpeg",
+    "/images/aysha8.jpeg",
+    "/images/aysha7.jpeg",
+    "/images/aysha6.jpeg",
+    "/images/aysha4.jpeg",
+    "/images/aysha3.jpeg",
+    "/images/aysha2.jpeg",
+    "/images/aysha1.jpeg"
+
   ]
 
   return (
@@ -36,7 +37,8 @@ export default function PhotosScreen({ onNext }) {
           {/* Some Sweet Moments */}
           The Noor Of My Eyes
         </motion.h2>
-        <p className="text-sm text-rose-100/90 mt-1">(Swipe the cards)</p>
+        <p className="text-lg text-rose-100/90 mt-2">✨Teri Surat Se Hai Aalam Me Baharo Ko Sabaat, <br />Teri Ankho Ke Siva Dunya Me Rakha Hi Kya Hai✨</p>
+        {/* <p className="text-lg text-rose-100/90 mt-3">(Swipe Pics🫣)</p> */}
       </div>
 
       <div className="relative flex justify-center">
