@@ -33,7 +33,7 @@ export default function Startpage({ onNext }) {
                         style={{
                             filter: "drop-shadow(0 0 20px rgba(255,105,180,0.4))",
                         }}>
-                        A Cutiepie was born today, 20 years ago!
+                        A Cutiepie was born today, 21 years ago!
                     </h1>
                 {/* Happy 21's Birthday, AYSHUU! */}
             </motion.div>

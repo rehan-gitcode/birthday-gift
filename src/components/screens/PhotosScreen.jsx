@@ -37,7 +37,7 @@ export default function PhotosScreen({ onNext }) {
           {/* Some Sweet Moments */}
           The Noor Of My Eyes
         </motion.h2>
-        <p className="text-lg text-rose-100/90 mt-2">✨Teri Surat Se Hai Aalam Me Baharo Ko Sabaat, <br />Teri Ankho Ke Siva Dunya Me Rakha Hi Kya Hai✨</p>
+        <p className="text-lg text-rose-100/90 mt-2">✨Teri Surat Se Hai Aalam Me Baharo Ko Sabaat, <br />Teri Ankho Ke Siva Dunya Me Rakha Kya Hai✨</p>
         {/* <p className="text-lg text-rose-100/90 mt-3">(Swipe Pics🫣)</p> */}
       </div>
 
