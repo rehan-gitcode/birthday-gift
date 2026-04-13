@@ -18,9 +18,9 @@ export default function IntroScreen({ onNext }) {
                         style={{
                             filter: "drop-shadow(0 0 20px rgba(255,105,180,0.4))",
                         }}>
-                        A Cutiepie was born today, 20 years ago!
+                        A Noor was born today, 18 years ago!
                     </h1>
-                    <p className="mt-4 text-xl text-pink-200">Yes, it’s YOU! A little surprise awaits...</p>
+                    <p className="mt-4 text-xl text-pink-200">Yes, it’s YOU Buddyy! A little surprise awaits...</p>
                 </div>
 
                 <div className="mt-8">
@@ -28,7 +28,7 @@ export default function IntroScreen({ onNext }) {
                         onClick={() => { onNext?.() }}
                     >
                         <Gift size={20} />
-                        Start the surprise
+                        Start The Surprise
                     </GradientButton>
                 </div>
             </div>

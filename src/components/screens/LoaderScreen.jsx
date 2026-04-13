@@ -11,6 +11,9 @@ export default function Startpage({ onNext }) {
     //     }, 3000)
     //     return () => clearTimeout(timer)
     // }, [onDone])
+    function surprise(){
+        alert("No Choice TO Say NO,Dostt😁")
+    }
 
     return (
         <motion.div
@@ -33,7 +36,7 @@ export default function Startpage({ onNext }) {
                         style={{
                             filter: "drop-shadow(0 0 20px rgba(255,105,180,0.4))",
                         }}>
-                        A Cutiepie was born today, 21 years ago!
+                       Oo Hiii Dosttt, Its your Special Dayyy! So lets Start...
                     </h1>
                 {/* Happy 21's Birthday, AYSHUU! */}
             </motion.div>
@@ -56,7 +59,7 @@ export default function Startpage({ onNext }) {
                 }}>
                     Yes
                 </button>
-                <button className="px-6 py-3 mt-6 ml-4 bg-gray-300 text-gray-700 rounded-md shadow-md hover:bg-gray-300/90 transition">
+                <button onClick={surprise} className="px-6 py-3 mt-6 ml-4 bg-gray-300 text-gray-700 rounded-md shadow-md hover:bg-gray-300/90 transition">
                     No
                 </button>
             </motion.div>

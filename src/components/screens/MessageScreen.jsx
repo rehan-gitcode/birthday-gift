@@ -5,43 +5,44 @@ import { motion } from "framer-motion"
 import GradientButton from "../GradientButton"
 import { ArrowRight } from "lucide-react"
 
-const message = `Hiiiiieee 🤍
+const message = `Hiiiiee Duaaaa🤍
+    
+Happy Birthday to my unexpected online Pakistani dost 💗, 
+May Allah always bless you and fulfill all your wishes🤍🤍
 
-If there was a way to pause time,
-I would pause it on every moment you smiled 🤌🏻🫶🏻
+Wo Developer hi kya jo apni dost ke liye chhoti si website na bana paye — so yes, I made one for you,
+Hope you like it 🫶🏻✨
 
-Out of all the people in this world,
-I’m just grateful that somehow our paths crossed 💞
+You are amazing and beautiful, just like the weather of this month☁️🌺
+It’s been one year of our friendship, and honestly, it still feels unbelievable to me😊
+I never thought a bond like this could exist until I met you🤝🫂
 
-You don’t even realize what you are.
-You think you’re just trying your best…
-but to me, you are comfort, strength, softness, and home — all at once 🙇🏻💗
+We could be offline friends Agar aapke buzurg border ke thoda idhar aa jate , mtlb yrr tehalte hue hi aa jate rajasthan door nhi tha😄
+Khair… ab mulaqat shayad Hajj ya Umrah par hi hogi, InshaAllah.(delusion level 100😄)🖤
 
-In a world that feels loud and heavy,
-you are the quiet place I rest my heart in ✨🫶🏻
+Thanks to that red-heart GC with the Tom PFP where we met — Neha Kakkar aur Atif Aslam ki deal karte-karte dosti ho gayi… what a deal😂
+Our friendship would have ended with that GC but maybe IT'S GOD'S PLAN😉
+Thank you for inviting me into your DM — warna main to kabhi himmat nahi karta,i wanted to say but
+Socha,ye sochegi " another lafanga detected, dm me bula rha h ,sab ladke same hote hain.”😭😂
 
-I don’t know what the future holds.
-I don’t know where life will take us.
-But I know this —
-knowing you has changed me in the most beautiful way 🫶🏻🫶🏻🫠
+I know one day life will take us to different paths. 
+But I hope someday you’ll remember that once a friend made a whole website just for you 
+maybe you will forget my name bus yaad rahega tha ek “bloody Indian” dost 😄
 
-If you ever doubt yourself,
-if you ever feel small,
-I wish you could see yourself through my eyes —
-you would never question your worth again 💅🏻💅🏻
+You are truly a unique and amazing girl. I have seen your beauty, your loyalty, your heart and your level of love. In my eyes, you are a perfect girl.
+At the end i want to say that- BUDDYY you are a beautiful soul Just save your love, protect your heart.
+Allah will write a beautiful naseeb for you and give behtreen se bhi behtreen so you will forget what you 
+lost So Keep sabr,NO sadness,NO blame Just keep smiling ,Because..
+"TU HASDI HUI HI SOHNI LAGDI HAI"🌷🌸🌹🌺🌻💐
 
-You are not just important to me.
-You are a chapter I never want to end 🤭🫣
+AND SOOO SOORYYYY for taking your pictures without your permission,maafiiii🙏🏻🙏🏻
 
-And today, on your birthday,
-I just want you to know —
-my prayers for you are sincere,
-my respect for you is real,
-and what I feel for you…
-comes from the deepest, quietest part of my heart 💗
+Once again — Happyyyy Birthdayyyyy 🤍
+Enjoy YOUR DAYYY💗
+Love from India🫶🏻✨
+You deserve a love as pure as the one you give🌹🌹
 
-Happyyyy Birthdayyyyy 🤍
-You deserve a love as pure as the one you give✨`;
+`
 
 export default function MessageScreen({ onNext }) {
   const [displayed, setDisplayed] = useState("");
@@ -65,7 +66,7 @@ export default function MessageScreen({ onNext }) {
         transition={{ duration: 0.8 }}
         className="text-3xl md:text-5xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-fuchsia-400 to-purple-400 drop-shadow mb-6 leading-tight"
       >
-        A Special Message From My Heart💘
+        A Special Message For You🖤
       </motion.h2>
 
       <div className="mx-auto relative w-full max-w-3xl flex justify-center">

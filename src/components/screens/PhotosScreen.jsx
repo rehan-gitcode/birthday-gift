@@ -13,11 +13,14 @@ export default function PhotosScreen({ onNext }) {
   const swiperRef = useRef(null)
 
   const photos = [
+    "/images/dua7.jpeg",
+    "/images/dua2.jpeg",
+    "/images/dua3.jpeg",
+    "/images/dua4.jpeg",
+    "/images/dua5.jpeg",
+    "/images/dua6.jpeg",
+
    
-    "/images/1.jpeg",
-    "/images/2.jpeg",
-    "/images/3.jpeg",
-    "/images/4.jpeg"
 
   ]
 
@@ -31,7 +34,8 @@ export default function PhotosScreen({ onNext }) {
           className="text-3xl md:text-5xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-pink-400 via-fuchsia-400 to-purple-400 drop-shadow"
         >
           {/* Some Sweet Moments */}
-          The Noor Of My Eyes
+         
+          A Late MOON
         </motion.h2>
         <p className="text-lg text-rose-100/90 mt-2">✨Teri Surat Se Hai Aalam Me Baharo Ko Sabaat, <br />Teri Ankho Ke Siva Dunya Me Rakha Kya Hai✨</p>
         {/* <p className="text-lg text-rose-100/90 mt-3">(Swipe Pics🫣)</p> */}
@@ -69,7 +73,7 @@ export default function PhotosScreen({ onNext }) {
         className="mt-8 flex justify-center"
       >
         <GradientButton onClick={onNext}>
-          <Mail size={20} className="mt-0.5" /> Open My Heart
+          <Mail size={20} className="mt-0.5" /> Open IT
         </GradientButton>
       </motion.div>
     </div>
