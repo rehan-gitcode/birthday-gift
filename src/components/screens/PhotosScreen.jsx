@@ -13,12 +13,11 @@ export default function PhotosScreen({ onNext }) {
   const swiperRef = useRef(null)
 
   const photos = [
-    "/images/dua7.jpeg",
-    "/images/dua2.jpeg",
-    "/images/dua3.jpeg",
-    "/images/dua4.jpeg",
-    "/images/dua5.jpeg",
-    "/images/dua6.jpeg",
+    "/images/1.jpeg",
+    "/images/2.jpeg",
+    "/images/3.jpeg",
+    "/images/4.jpeg",
+    
 
    
 
