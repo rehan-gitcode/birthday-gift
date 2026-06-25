@@ -12,7 +12,7 @@ export default function Startpage({ onNext }) {
     //     return () => clearTimeout(timer)
     // }, [onDone])
     function surprise(){
-        alert("No Choice TO Say NO,Dostt😁")
+        alert("No Choice TO Say NO, Buddy😁")
     }
 
     return (

@@ -5,42 +5,22 @@ import { motion } from "framer-motion"
 import GradientButton from "../GradientButton"
 import { ArrowRight } from "lucide-react"
 
-const message = `Hiiiiee Duaaaa🤍
+const message = `
     
-Happy Birthday to my unexpected online Pakistani dost 💗, 
-May Allah always bless you and fulfill all your wishes🤍🤍
+Happiiee Birthday khushii !🎂✨
 
-Wo Developer hi kya jo apni dost ke liye chhoti si website na bana paye — so yes, I made one for you,
-Hope you like it 🫶🏻✨
+From the little I've seen, you genuinely seem like someone who carries a very calm and positive energy around her. Some people stand out because they're loud and some stand out without even trying, I think you're the second kind🤍
 
-You are amazing and beautiful, just like the weather of this month☁️🌺
-It’s been one year of our friendship, and honestly, it still feels unbelievable to me😊
-I never thought a bond like this could exist until I met you🤝🫂
+I hope this year brings you everything you've been hoping and working for — success, happiness, good health, beautiful memories, and the kind of peace that stays🫀
+You deserve a year that gives back all the effort, kindness, and patience you put into the world🌍 
 
-We could be offline friends Agar aapke buzurg border ke thoda idhar aa jate , mtlb yrr tehalte hue hi aa jate rajasthan door nhi tha😄
-Khair… ab mulaqat shayad Hajj ya Umrah par hi hogi, InshaAllah.(delusion level 100😄)🖤
+And if I'm allowed one small wish for myself today, I'd say I hope this year gives me the chance to know you a little better too 😄
 
-Thanks to that red-heart GC with the Tom PFP where we met — Neha Kakkar aur Atif Aslam ki deal karte-karte dosti ho gayi… what a deal😂
-Our friendship would have ended with that GC but maybe IT'S GOD'S PLAN😉
-Thank you for inviting me into your DM — warna main to kabhi himmat nahi karta,i wanted to say but
-Socha,ye sochegi " another lafanga detected, dm me bula rha h ,sab ladke same hote hain.”😭😂
+Because honestly, it's rare to come across someone who seems interesting enough to make you curious despite barely talking to them. Yet somehow, you've managed that 🖤
 
-I know one day life will take us to different paths. 
-But I hope someday you’ll remember that once a friend made a whole website just for you 
-maybe you will forget my name bus yaad rahega tha ek “bloody Indian” dost 😄
+Maybe I'm completely wrong, maybe I'm completely right, but I have a feeling there's a lot more to you than what most people get to see 👀
 
-You are truly a unique and amazing girl. I have seen your beauty, your loyalty, your heart and your level of love. In my eyes, you are a perfect girl.
-At the end i want to say that- BUDDYY you are a beautiful soul Just save your love, protect your heart.
-Allah will write a beautiful naseeb for you and give behtreen se bhi behtreen so you will forget what you 
-lost So Keep sabr,NO sadness,NO blame Just keep smiling ,Because..
-"TU HASDI HUI HI SOHNI LAGDI HAI"🌷🌸🌹🌺🌻💐
-
-AND SOOO SOORYYYY for taking your pictures without your permission,maafiiii🙏🏻🙏🏻
-
-Once again — Happyyyy Birthdayyyyy 🤍
-Enjoy YOUR DAYYY💗
-Love from India🫶🏻✨
-You deserve a love as pure as the one you give🌹🌹
+Enjoy your day, keep smiling, and try not to make it look too easy being this effortlessly charming. 😌🎉🤍
 
 `
 
