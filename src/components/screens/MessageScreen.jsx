@@ -7,7 +7,7 @@ import { ArrowRight } from "lucide-react"
 
 const message = `
     
-Happiiee Birthday khushii !🎂✨
+Happiiee Birthday Khushii !🎂✨
 
 From the little I've seen, you genuinely seem like someone who carries a very calm and positive energy around her. Some people stand out because they're loud and some stand out without even trying, I think you're the second kind🤍
 
